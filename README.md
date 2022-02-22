@@ -1,0 +1,1 @@
+# Glossaire-BDD-validation-
